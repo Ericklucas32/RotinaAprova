@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Versão inicial do backend"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/rotinaaprova-backend.git
-git push -u origin main
